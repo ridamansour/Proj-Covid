@@ -1,7 +1,4 @@
 # 🇧🇷 Arabic COVID-19 Country Analyzer
-This Java project performs textual analysis on Arabic-language news articles or tweets to extract COVID-19 statistics and associate them with countries mentioned in the text.
-
----
 
 ## 📌 Features
 
